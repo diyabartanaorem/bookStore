@@ -1,22 +1,19 @@
-# 📚 Responsive BookStore Web App
+# 📚 BookStore Web App
 
-Welcome to the **Responsive BookStore Web App**! This full-stack application is designed to provide an elegant and intuitive experience for book enthusiasts and developers. Explore, search, and purchase books seamlessly across any device.
+I am excited to introduce to the **BookStore Web App**—a dynamic full-stack application designed to manage and store books in a database. As my inaugural full-stack project, this app represents a significant milestone in my journey as a developer.
 
 ## 🚀 Features
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - **Full-Stack Development**: Comprehensive tech stack for both frontend and backend.
-- **User-Friendly Navigation**: Easy browsing, searching, and book management.
-- **Secure Transactions**: Integrated with Stripe for secure payments.
-- **Interactive UI**: Engaging and intuitive user interface.
+- **Interactive UI**: Engaging and intuitive user interface such as the create, delete and edit notifications.
 
 ## 🌟 Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Authentication**: JWT, OAuth
-- **Payment Integration**: Stripe API
+- **Frontend**: React.js, tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
-## 📦 Installation
+## 🖼️ Product Images
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/bookStore.git
+Here are some images:
+![Screenshot from 2024-09-01 02-04-32](https://github.com/user-attachments/assets/17db9302-90e7-445d-859e-a46b02de14b5)
+![Screenshot from 2024-09-01 02-05-59](https://github.com/user-attachments/assets/71fa9178-849d-4205-9ae4-1f9c80517867)
